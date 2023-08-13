@@ -1,6 +1,13 @@
 First draft website for the Routh4PDX campaign.  On the web at <https://routh4pdx.netlify.app>.  Contributions welcome/encouraged!
 
-Details about the tech stack (boilerplate, came from template we used) is below.
+To develop locally (hopefully few people need this, since you can use Netlify to build/preview), you'll want to ensure that you have these installed:
+
+- [Node.js v 18.17.1](https://nodejs.org/en) (probably any version `18.x` will do)
+- [Hugo extended v 0.117.0](https://github.com/gohugoio/hugo/releases/tag/v0.117.0) (probably any version `>=0.101` will do.)
+- [Sanity CMS command-line interface](https://www.sanity.io/docs/cli)
+- [netlify CLI](https://github.com/netlify/cli) (probably any version `>=16.0.2` will do)
+
+(Many more) details about the tech stack (boilerplate, came from template we used) is below the fold.
 
 ---
 
